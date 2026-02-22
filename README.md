@@ -16,3 +16,10 @@ Fever/Vital Warning: Red status if high body temperature or abnormal pulse is de
 
 Live Dashboard: A Python-based GUI displaying real-time data and historical graphs.
 
+Here is the  setup:
+
+![Setup](steer.jpeg)
+
+Here is the dashboard for the alert system:
+
+![Dashboard](visualize.jpeg)
